@@ -1,0 +1,20 @@
+generations:
+  - name: "First Generation"
+    start_year: 2001
+    end_year: 2006
+    description: "The first generation MDX established itself as a luxury three-row crossover SUV with a 3.5L V6 engine producing 240-265 HP. It featured Acura's Variable Torque Management all-wheel drive system and was praised for combining car-like handling with SUV utility."
+
+  - name: "Second Generation"
+    start_year: 2007
+    end_year: 2013
+    description: "The second generation MDX refined the formula with more aggressive styling and improved dynamics. It featured a more powerful 3.7L V6 engine with 300 HP and Acura's Super Handling All-Wheel Drive (SH-AWD) system. This generation added more luxury features and technology while maintaining the model's practical three-row layout."
+
+  - name: "Third Generation"
+    start_year: 2014
+    end_year: 2020
+    description: "The third generation MDX returned to a 3.5L V6 but with direct injection for improved efficiency and 290 HP. It introduced an available 9-speed automatic transmission and continued to offer SH-AWD. A Sport Hybrid model was added in 2017, pairing a 3.0L V6 with three electric motors for enhanced performance and efficiency."
+
+  - name: "Fourth Generation"
+    start_year: 2021
+    end_year: null
+    description: "The current MDX features a complete redesign with a more premium interior, sharper styling, and an improved chassis with double-wishbone front suspension. The standard powertrain is a 3.5L V6 with 290 HP, while the Type S performance variant offers a turbocharged 3.0L V6 producing 355 HP. Technology features include a digital instrument cluster, wide infotainment screen with touchpad controller, and advanced driver assistance systems."
