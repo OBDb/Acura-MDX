@@ -1,0 +1,11 @@
+command_id: DB33.0167
+test_cases:
+- response: |-
+    18DAF1EF054167036434
+    18DAF110054167036434
+    18DAF11E054167036434
+  expected_values:
+    ECT_1: 60
+    ECT_1_SUP: 1
+    ECT_2: 12
+    ECT_2_SUP: 1
