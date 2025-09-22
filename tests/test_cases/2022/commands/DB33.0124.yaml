@@ -1,6 +1,6 @@
 command_id: DB33.0124
 test_cases:
-- response: 18DAF1100641247E854966
-  expected_values:
+- expected_values:
     LAMBDA11_WIDE: 0.98843
     O2S11_WIDE: 2.29258
+  response: 18DAF1100641247E854966
