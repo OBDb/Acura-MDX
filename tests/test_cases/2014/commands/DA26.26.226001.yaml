@@ -1,10 +1,14 @@
-command_id: DA26.226001
+command_id: DA26.26.226001
 test_cases:
 - expected_values:
     ACURA_TP_FL: 236
     ACURA_TP_FR: 239
     ACURA_TP_RL: 242
     ACURA_TP_RR: 244
+    ACURA_TT_FL: 21
+    ACURA_TT_FR: 26
+    ACURA_TT_RL: 20
+    ACURA_TT_RR: 27
   response: |-
     18DAF126103B6260010000FF
     18DAF1262100F000000000EF
