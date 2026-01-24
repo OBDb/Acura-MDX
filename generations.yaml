@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Acura_MDX"
+
 generations:
   - name: "First Generation"
     start_year: 2001
@@ -15,6 +18,6 @@ generations:
     description: "The third generation MDX returned to a 3.5L V6 but with direct injection for improved efficiency and 290 HP. It introduced an available 9-speed automatic transmission and continued to offer SH-AWD. A Sport Hybrid model was added in 2017, pairing a 3.0L V6 with three electric motors for enhanced performance and efficiency."
 
   - name: "Fourth Generation"
-    start_year: 2021
+    start_year: 2022
     end_year: null
-    description: "The current MDX features a complete redesign with a more premium interior, sharper styling, and an improved chassis with double-wishbone front suspension. The standard powertrain is a 3.5L V6 with 290 HP, while the Type S performance variant offers a turbocharged 3.0L V6 producing 355 HP. Technology features include a digital instrument cluster, wide infotainment screen with touchpad controller, and advanced driver assistance systems."
+    description: "The current MDX features a complete redesign with a more premium interior, sharper styling, and an improved chassis with double-wishbone front suspension. The standard powertrain is a 3.5L V6 with 290 HP, while the Type S performance variant offers a turbocharged 3.0L V6 producing 355 HP. Technology features include a digital instrument cluster, wide infotainment screen with touchpad controller, and advanced driver assistance systems. The 2021 model year was skipped; production began in January 2021 for the 2022 model year."
