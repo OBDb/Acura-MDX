@@ -5,19 +5,39 @@ generations:
   - name: "First Generation"
     start_year: 2001
     end_year: 2006
-    description: "The first generation MDX established itself as a luxury three-row crossover SUV with a 3.5L V6 engine producing 240-265 HP. It featured Acura's Variable Torque Management all-wheel drive system and was praised for combining car-like handling with SUV utility."
+    description: "The first generation MDX established itself as a luxury three-row crossover SUV with a 3.5L V6 engine producing 240-265 HP. It featured Acura's Variable Torque Management all-wheel drive system and was praised for combining car-like handling with SUV utility. Derived from Honda's Global mid-size platform, the MDX was introduced on October 5, 2000 as a 2001 model, replacing the Acura SLX."
 
   - name: "Second Generation"
     start_year: 2007
+    end_year: 2009
+    description: "The second generation MDX refined the formula with more aggressive styling and improved dynamics. It featured a more powerful 3.7L V6 engine with 300 HP and Acura's Super Handling All-Wheel Drive (SH-AWD) system, which replaced the VTM-4 system. This generation added more luxury features and technology while maintaining the model's practical three-row layout."
+
+  - name: "Second Generation (2010 Facelift)"
+    start_year: 2010
     end_year: 2013
-    description: "The second generation MDX refined the formula with more aggressive styling and improved dynamics. It featured a more powerful 3.7L V6 engine with 300 HP and Acura's Super Handling All-Wheel Drive (SH-AWD) system. This generation added more luxury features and technology while maintaining the model's practical three-row layout."
+    description: "The 2010 facelift brought Acura's new 'Power Plenum' grille design, a new six-speed SportShift automatic transmission with paddle shifters and downshift rev-matching, and increased compression ratio for improved performance. The Advance Package was introduced with collision mitigation braking, adaptive cruise control, active damper suspension, and blind spot monitoring. Production ended in 2013."
 
   - name: "Third Generation"
     start_year: 2014
+    end_year: 2016
+    description: "The third generation MDX was completely redesigned and introduced a 3.5L direct-injected V6 with 290 HP, available in both front-wheel drive and SH-AWD configurations. The wheelbase increased to 111.0 inches and production moved from Canada to Lincoln, Alabama. Jewel Eye LED headlights, a 7-inch touchscreen with haptic feedback, and an 8-inch infotainment screen were standard, representing significant technology upgrades for the platform."
+
+  - name: "Third Generation (2017 Facelift)"
+    start_year: 2017
+    end_year: 2018
+    description: "The 2017 facelift introduced a diamond pentagon front grille design, aluminum front fenders, and standard AcuraWatch safety suite including CMBS with FCW, Lane Keeping Assist, Adaptive Cruise Control, and Road Departure Mitigation. The 2017 model year also saw the introduction of the Sport Hybrid variant with a 3.0L V6 paired with three electric motors producing 321 HP combined, with standard SH-AWD and seven-speed dual-clutch transmission."
+
+  - name: "Third Generation (2019 Facelift)"
+    start_year: 2019
     end_year: 2020
-    description: "The third generation MDX returned to a 3.5L V6 but with direct injection for improved efficiency and 290 HP. It introduced an available 9-speed automatic transmission and continued to offer SH-AWD. A Sport Hybrid model was added in 2017, pairing a 3.0L V6 with three electric motors for enhanced performance and efficiency."
+    description: "The 2019 model year introduced the A-Spec appearance package with exclusive 20-inch wheels, aggressive front fascia, and sport-tuned interior with perforated leather and Alcantara trim. All 2019 models featured enhanced 9-speed automatic transmission with smoother acceleration, updated second-row seat configuration for easier third-row access, and new 20-inch wheel designs with wider tires. The Active Damper System became available on Advance package models."
 
   - name: "Fourth Generation"
     start_year: 2022
+    end_year: 2024
+    description: "The fourth generation MDX was revealed as a prototype on October 14, 2020, and production began in January 2021 for the 2022 model year launch on February 2. The 2021 model year was skipped. This complete redesign featured a premium interior, sharper styling, and improved chassis with double-wishbone front suspension. The standard powertrain is a 3.5L V6 with 290 HP paired with a 10-speed automatic, while the Type-S performance variant offers a turbocharged 3.0L V6 producing 355 HP. Technology includes a 12.3-inch infotainment system with touchpad controller, 12-inch digital instrument cluster, panoramic sunroof, and advanced SH-AWD system. The fourth generation became the flagship model following the discontinuation of the Acura RLX in June 2020."
+
+  - name: "Fourth Generation (2025 Facelift)"
+    start_year: 2025
     end_year: null
-    description: "The current MDX features a complete redesign with a more premium interior, sharper styling, and an improved chassis with double-wishbone front suspension. The standard powertrain is a 3.5L V6 with 290 HP, while the Type S performance variant offers a turbocharged 3.0L V6 producing 355 HP. Technology features include a digital instrument cluster, wide infotainment screen with touchpad controller, and advanced driver assistance systems. The 2021 model year was skipped; production began in January 2021 for the 2022 model year."
+    description: "The MDX facelift was revealed on April 9, 2024 for the 2025 model year. Changes include updated exterior styling with new alloy wheel designs, a new 12.3-inch touchscreen infotainment system with Google built-in, replacement of the touchpad controller with additional storage space and wireless charging pad, and new AcuraWatch 360 safety features. The audio system was upgraded from ELS Studio 3D to a new Bang & Olufsen system with 19 speakers in non-Type-S trims and 31 speakers in Type-S variants. SiriusXM satellite radio was discontinued. Powertrain options remain unchanged."
