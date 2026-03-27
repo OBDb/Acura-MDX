@@ -1,0 +1,6 @@
+command_id: DB33.0119
+test_cases:
+- expected_values:
+    O2S22: 0.585
+    SHRTFT22: -29.5625
+  response: 18DAF10E044119757E
