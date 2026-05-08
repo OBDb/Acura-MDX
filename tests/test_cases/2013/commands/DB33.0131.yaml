@@ -7,8 +7,8 @@ test_cases:
     CLR_DIST: 4612
   response: 18DAF10E0441311204
 - expected_values:
-    CLR_DIST: 5073
-  response: 18DAF10E04413113D1
-- expected_values:
     CLR_DIST: 5544
   response: 18DAF10E04413115A8
+- expected_values:
+    CLR_DIST: 5596
+  response: 18DAF10E04413115DC
