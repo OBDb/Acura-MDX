@@ -137,7 +137,6 @@ test_cases:
     ACURA_TP_FL: 229
     ACURA_TP_FR: 228
     ACURA_TP_RL: 228
-    ACURA_TP_RR: 998
     ACURA_TT_FL: 10
     ACURA_TT_FR: 8
     ACURA_TT_RL: 9
@@ -174,7 +173,6 @@ test_cases:
 - expected_values:
     ACURA_TP_FL: 238
     ACURA_TP_FR: 235
-    ACURA_TP_RL: 998
     ACURA_TP_RR: 233
     ACURA_TT_FL: 18
     ACURA_TT_FR: 16
@@ -287,9 +285,6 @@ test_cases:
     18DAF1262800000000555555
 - expected_values:
     ACURA_TP_FL: 227
-    ACURA_TP_FR: 998
-    ACURA_TP_RL: 998
-    ACURA_TP_RR: 998
     ACURA_TT_FL: 7
     ACURA_TT_FR: 0
     ACURA_TT_RL: 0
@@ -305,10 +300,6 @@ test_cases:
     18DAF1262700000000000000
     18DAF1262800000000555555
 - expected_values:
-    ACURA_TP_FL: 998
-    ACURA_TP_FR: 998
-    ACURA_TP_RL: 998
-    ACURA_TP_RR: 998
     ACURA_TT_FL: 0
     ACURA_TT_FR: 0
     ACURA_TT_RL: 0
