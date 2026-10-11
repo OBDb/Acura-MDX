@@ -1,7 +1,7 @@
 command_id: DA10.10.222615
 test_cases:
 - expected_values:
-    ACURA_ACTIVE_CYL: 6
+    MDX_ACTIVE_CYL: 6
   response: |-
     18DAF1101039622615000000
     18DAF1102100000800000000

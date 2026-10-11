@@ -1,7 +1,7 @@
 command_id: DA1E.1E.223086
 test_cases:
 - expected_values:
-    ACURA_GEAR: P
+    MDX_GEAR_V2: P
   response: |-
     18DAF11E1027623086FFFFFF
     18DAF11E210301F401F40B33
