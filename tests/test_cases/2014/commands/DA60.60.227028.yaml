@@ -1,8 +1,7 @@
 command_id: DA60.60.227028
 test_cases:
 - expected_values:
-    ACURA_AAT: 27
-    ACURA_AAT_FIRSTGEN: 27
+    MDX_AAT: 27
   response: |-
     18DAF1601039627028F8FC00
     18DAF1602100000004040000

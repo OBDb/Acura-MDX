@@ -1,7 +1,7 @@
 command_id: DA0E.0E.222615
 test_cases:
 - expected_values:
-    ACURA_ACTIVE_CYL_PCM: 6
+    MDX_ACTIVE_CYL_PCM: 6
   response: |-
     18DAF10E1039622615000000
     18DAF10E2100000800000000
