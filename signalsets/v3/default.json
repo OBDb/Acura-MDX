@@ -204,14 +204,14 @@
   ]},
 { "hdr": "DA26", "rax": "26", "cmd": {"22": "6001"}, "freq": 15, "dbgfilter": { "to": 2013, "years": [2015, 2017, 2020, 2021, 2023], "from": 2027 },
   "signals": [
-    {"id": "MDX_TP_FR", "path": "Tires", "fmt": {"bix": 64,  "len": 16, "max": 65535,                            "unit": "kilopascal" }, "name": "Front right tire pressure",    "suggestedMetric": "frontRightTirePressure"},
-    {"id": "MDX_TP_FL", "path": "Tires", "fmt": {"bix": 80,  "len": 16, "max": 65535,                            "unit": "kilopascal" }, "name": "Front left tire pressure",     "suggestedMetric": "frontLeftTirePressure"},
-    {"id": "MDX_TP_RR", "path": "Tires", "fmt": {"bix": 96,  "len": 16, "max": 65535,                            "unit": "kilopascal" }, "name": "Rear right tire pressure",     "suggestedMetric": "rearRightTirePressure"},
-    {"id": "MDX_TP_RL", "path": "Tires", "fmt": {"bix": 112, "len": 16, "max": 65535,                            "unit": "kilopascal" }, "name": "Rear left tire pressure",      "suggestedMetric": "rearLeftTirePressure"},
-    {"id": "MDX_TT_FR", "path": "Tires", "fmt": {"bix": 192, "len": 8,  "max": 127,   "min": -128, "sign": true, "unit": "celsius"    }, "name": "Front right tire temperature", "suggestedMetric": "frontRightTireTemperature"},
-    {"id": "MDX_TT_FL", "path": "Tires", "fmt": {"bix": 200, "len": 8,  "max": 127,   "min": -128, "sign": true, "unit": "celsius"    }, "name": "Front left tire temperature",  "suggestedMetric": "frontLeftTireTemperature"},
-    {"id": "MDX_TT_RR", "path": "Tires", "fmt": {"bix": 208, "len": 8,  "max": 127,   "min": -128, "sign": true, "unit": "celsius"    }, "name": "Rear right tire temperature",  "suggestedMetric": "rearRightTireTemperature"},
-    {"id": "MDX_TT_RL", "path": "Tires", "fmt": {"bix": 216, "len": 8,  "max": 127,   "min": -128, "sign": true, "unit": "celsius"    }, "name": "Rear left tire temperature",   "suggestedMetric": "rearLeftTireTemperature"}
+    {"id": "MDX_TP_FR", "path": "Tires", "fmt": {"bix": 64,  "len": 16, "max": 65535,                            "nullmax": 998, "unit": "kilopascal" }, "name": "Front right tire pressure",    "suggestedMetric": "frontRightTirePressure"},
+    {"id": "MDX_TP_FL", "path": "Tires", "fmt": {"bix": 80,  "len": 16, "max": 65535,                            "nullmax": 998, "unit": "kilopascal" }, "name": "Front left tire pressure",     "suggestedMetric": "frontLeftTirePressure"},
+    {"id": "MDX_TP_RR", "path": "Tires", "fmt": {"bix": 96,  "len": 16, "max": 65535,                            "nullmax": 998, "unit": "kilopascal" }, "name": "Rear right tire pressure",     "suggestedMetric": "rearRightTirePressure"},
+    {"id": "MDX_TP_RL", "path": "Tires", "fmt": {"bix": 112, "len": 16, "max": 65535,                            "nullmax": 998, "unit": "kilopascal" }, "name": "Rear left tire pressure",      "suggestedMetric": "rearLeftTirePressure"},
+    {"id": "MDX_TT_FR", "path": "Tires", "fmt": {"bix": 192, "len": 8,  "max": 127,   "min": -128, "sign": true,                 "unit": "celsius"    }, "name": "Front right tire temperature", "suggestedMetric": "frontRightTireTemperature"},
+    {"id": "MDX_TT_FL", "path": "Tires", "fmt": {"bix": 200, "len": 8,  "max": 127,   "min": -128, "sign": true,                 "unit": "celsius"    }, "name": "Front left tire temperature",  "suggestedMetric": "frontLeftTireTemperature"},
+    {"id": "MDX_TT_RR", "path": "Tires", "fmt": {"bix": 208, "len": 8,  "max": 127,   "min": -128, "sign": true,                 "unit": "celsius"    }, "name": "Rear right tire temperature",  "suggestedMetric": "rearRightTireTemperature"},
+    {"id": "MDX_TT_RL", "path": "Tires", "fmt": {"bix": 216, "len": 8,  "max": 127,   "min": -128, "sign": true,                 "unit": "celsius"    }, "name": "Rear left tire temperature",   "suggestedMetric": "rearLeftTireTemperature"}
   ]},
 { "hdr": "DA28", "rax": "28", "cmd": {"22": "4004"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [

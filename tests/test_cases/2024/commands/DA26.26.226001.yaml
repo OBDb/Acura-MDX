@@ -137,7 +137,6 @@ test_cases:
     MDX_TP_FL: 229
     MDX_TP_FR: 228
     MDX_TP_RL: 228
-    MDX_TP_RR: 998
     MDX_TT_FL: 10
     MDX_TT_FR: 8
     MDX_TT_RL: 9
@@ -174,7 +173,6 @@ test_cases:
 - expected_values:
     MDX_TP_FL: 238
     MDX_TP_FR: 235
-    MDX_TP_RL: 998
     MDX_TP_RR: 233
     MDX_TT_FL: 18
     MDX_TT_FR: 16
@@ -287,9 +285,6 @@ test_cases:
     18DAF1262800000000555555
 - expected_values:
     MDX_TP_FL: 227
-    MDX_TP_FR: 998
-    MDX_TP_RL: 998
-    MDX_TP_RR: 998
     MDX_TT_FL: 7
     MDX_TT_FR: 0
     MDX_TT_RL: 0
@@ -305,10 +300,6 @@ test_cases:
     18DAF1262700000000000000
     18DAF1262800000000555555
 - expected_values:
-    MDX_TP_FL: 998
-    MDX_TP_FR: 998
-    MDX_TP_RL: 998
-    MDX_TP_RR: 998
     MDX_TT_FL: 0
     MDX_TT_FR: 0
     MDX_TT_RL: 0
